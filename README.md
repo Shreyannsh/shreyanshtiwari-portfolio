@@ -6,4 +6,7 @@ as of now, I know-
 1. chalk
 1. javascript
 1. nodejs
-1. 
+
+I have created my website where I have listed my projects and blogs 
+
+Checkout - 
